@@ -12,3 +12,7 @@ asst_sabAxYRnm8J22qp2emhN6tl8
 {"thread_id": "thread_sIhyPoLEeblW226YjYoyz8fN", "created_at": "2025-07-24T04:27:15.730407", "user_info": "User message: what is tentostrone?...", "status": "active"}
 {"thread_id": "thread_NkRIOZi8Dx4m82zDNiVJk9xi", "created_at": "2025-07-28T11:15:14.896079", "user_info": "User message: hello...", "status": "active"}
 {"thread_id": "thread_piwUjXFyiIwtZ5Sfx2w3bvDN", "created_at": "2025-07-28T12:01:53.116851", "user_info": "User message: hello...", "status": "active"}
+{"thread_id": "thread_DIQ8xGTn1nWczN4X1B1lWiZd", "created_at": "2025-07-29T15:27:51.016924", "user_info": "User message: Who is jake carter?...", "status": "active"}
+{"thread_id": "thread_XAH6OrPTnJDxlqFxfDmqwcOC", "created_at": "2025-07-29T15:28:25.488880", "user_info": "User message: what is IOH...", "status": "active"}
+{"thread_id": "thread_aFfry5SaNXr4SpAnyLhd5RZY", "created_at": "2025-07-29T15:30:38.092321", "user_info": "User message: who is jake carter?...", "status": "active"}
+{"thread_id": "thread_cBZkpsAZoQwx8f9fSQezWpTk", "created_at": "2025-07-29T15:31:02.604181", "user_info": "User message: what is ioh...", "status": "active"}
